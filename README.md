@@ -3,7 +3,7 @@
 **Data Science & Business Analytics Graduate Student @ UNC Charlotte**  
 Aspiring **Data Analyst / Data Scientist** with a strong foundation in SQL, Python, R, and data storytelling. I enjoy turning raw data into clear, insightful visuals and actionable business recommendations.
 
----
+
 
 ##  About Me
 
@@ -12,7 +12,7 @@ Aspiring **Data Analyst / Data Scientist** with a strong foundation in SQL, Pyth
 -  Interested in **data visualization, machine learning, text mining, and database systems**  
 -  Currently based in **Charlotte, NC**
 
----
+
 
 ##  Tech Stack
 
@@ -33,7 +33,7 @@ Aspiring **Data Analyst / Data Scientist** with a strong foundation in SQL, Pyth
 - Decision Trees, Naïve Bayes  
 - Association Rules, Text Mining / NLP  
 
----
+
 
 ##  Featured Projects
 
@@ -42,7 +42,7 @@ Designed and analyzed a **relational soccer database** using **ERD modeling** an
 
 > _Skills: SQL, Database Design, Normalization, Query Optimization, Power BI_
 
----
+
 
 ###  Data Visualization Portfolio (Python, Tableau, Streamlit)
 Built multiple end-to-end **analytics and visualization projects**:
@@ -53,7 +53,7 @@ Built multiple end-to-end **analytics and visualization projects**:
 
 > _Skills: Data Cleaning, EDA, Dashboarding, Storytelling_
 
----
+
 
 ###  Spotify Listener Segmentation & Churn Prediction (Python, R)
 - Applied **K-Means clustering** to segment Spotify users based on behavior (subscription type, ad exposure, etc.)  
@@ -61,7 +61,7 @@ Built multiple end-to-end **analytics and visualization projects**:
 
 > _Skills: Clustering, Logistic Regression, Feature Engineering, Model Evaluation_
 
----
+
 
 ###  Robinhood Sentiment Analysis – GameStop Event (Python, NLP)
 Performed **text mining** on social media data around the **GameStop short squeeze**:
@@ -71,7 +71,7 @@ Performed **text mining** on social media data around the **GameStop short squee
 
 > _Skills: NLP, Sentiment Analysis, Topic Modeling, Visualization_
 
----
+
 
 ## Professional Experience
 
@@ -84,7 +84,7 @@ Ensured compliance with **Six Sigma** and **ISO standards**, supported **process
 **Assistant Professor (Mentor Teacher)** – Govt. Model Polytechnic College, India  
 Taught **Microprocessors, Database Systems (SQL), Electronic Circuits, and Total Quality Management**, mentoring students in both theory and lab environments.
 
----
+
 
 ##  Certifications
 
@@ -92,7 +92,7 @@ Taught **Microprocessors, Database Systems (SQL), Electronic Circuits, and Total
 - Tableau Desktop Specialist  
 - ASTQB Certified Software Tester – Foundation Level (CTFL)
 
----
+
 
 ##  Get in Touch
 
