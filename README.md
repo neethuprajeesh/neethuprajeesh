@@ -8,7 +8,7 @@ Aspiring **Data Analyst / Data Scientist** with a strong foundation in SQL, Pyth
 ##  About Me
 
 - Pursuing **M.S. in Data Science & Business Analytics (DSBA)** at **UNC Charlotte** (Jan 2025 – May 2027, expected)  
--  Background in **Electronics & Telecommunication Engineering** and **quality-focused industry experience**  
+-  Background in **Electronics & Telecommunication Engineering** and **data related industry experience**  
 -  Interested in **data visualization, machine learning, text mining, and database systems**  
 -  Currently based in **Charlotte, NC**
 
@@ -98,6 +98,6 @@ Taught **Microprocessors, Database Systems (SQL), Electronic Circuits, and Total
 
 - **Email:** [neeethuelectcom@gmail.com](mailto:neeethuelectcom@gmail.com)  
 -  **LinkedIn:** [Neethu Rajagopal Jalaja](https://www.linkedin.com/in/neethu-rajagopal-jalaja-118996238/)  
--  **GitHub:** [github.com/neethuraj](https://github.com/neethuraj)
+-  **GitHub:** [github.com/neethuprajeesh](https://neethuprajeesh.github.io/neethuprajeesh/))
 
 If you’re working on data, analytics, or visualization projects and think I could contribute, I’d love to connect or collaborate!
