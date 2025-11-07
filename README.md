@@ -18,7 +18,7 @@ Aspiring **Data Analyst / Data Scientist** with a strong foundation in SQL, Pyth
 
 **Languages & Libraries**  
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
-- **R**: ggplot2, dplyr  
+- **R**: ggplot2, dplyr, factoextra,  
 - **SQL**  
 
 **Databases**  
