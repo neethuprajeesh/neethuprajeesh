@@ -73,19 +73,6 @@ Performed **text mining** on social media data around the **GameStop short squee
 
 
 
-## Professional Experience
-
-**Data Analyst – TELUS International AI** *(Part Time, Remote | 09/2023 – 11/2024)*  
-Worked on improving **AI and machine learning models** by analyzing web data, performing **data verification & validation**, and enhancing **labeling quality** for model training.
-
-**Electronics Tester – Quality Assurance – Teleplan International** *(Harrisburg, PA | 05/2019 – 11/2019)*  
-Ensured compliance with **Six Sigma** and **ISO standards**, supported **process improvement**, and created **Excel/Tableau-based KPI dashboards** from hardware testing data.
-
-**Assistant Professor (Mentor Teacher)** – Govt. Model Polytechnic College, India  
-Taught **Microprocessors, Database Systems (SQL), Electronic Circuits, and Total Quality Management**, mentoring students in both theory and lab environments.
-
-
-
 ##  Certifications
 
 - IBM Professional Data Science Certification  
