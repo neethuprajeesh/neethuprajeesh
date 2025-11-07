@@ -84,7 +84,7 @@ Performed **text mining** on social media data around the **GameStop short squee
 ##  Get in Touch
 
 - **Email:** [neeethuelectcom@gmail.com](mailto:neeethuelectcom@gmail.com)  
--  **LinkedIn:** [Neethu Rajagopal Jalaja](https://www.linkedin.com/in/neethu-rajagopal-jalaja-118996238/)  
--  **GitHub:** [github.com/neethuprajeesh](https://neethuprajeesh.github.io/neethuprajeesh/))
+-  **LinkedIn:** [Neethu Rajagopal Jalaja](https://www.linkedin.com/in/neethu-rajagopal/)  
+-  **GitHub:** [github.com/neethuprajeesh](https://www.github.com/neethuprajeesh/))
 
 If you’re working on data, analytics, or visualization projects and think I could contribute, I’d love to connect or collaborate!
