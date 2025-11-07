@@ -1,16 +1,103 @@
-## Hi there 👋
+#  Hi, I'm Neethu Rajagopal Jalaja
 
-<!--
-**neethuprajeesh/neethuprajeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science & Business Analytics Graduate Student @ UNC Charlotte**  
+Aspiring **Data Analyst / Data Scientist** with a strong foundation in SQL, Python, R, and data storytelling. I enjoy turning raw data into clear, insightful visuals and actionable business recommendations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+- Pursuing **M.S. in Data Science & Business Analytics (DSBA)** at **UNC Charlotte** (Jan 2025 – May 2027, expected)  
+-  Background in **Electronics & Telecommunication Engineering** and **quality-focused industry experience**  
+-  Interested in **data visualization, machine learning, text mining, and database systems**  
+-  Currently based in **Charlotte, NC**
+
+---
+
+##  Tech Stack
+
+**Languages & Libraries**  
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
+- **R**: ggplot2, dplyr  
+- **SQL**  
+
+**Databases**  
+- MySQL, Snowflake  
+
+**Tools & Platforms**  
+- Tableau, Power BI, Google Colab, Streamlit, MS Excel, Vega-Lite  
+
+**Machine Learning & Analytics**  
+- Multiple Linear Regression, Logistic Regression  
+- K-Means & Hierarchical Clustering  
+- Decision Trees, Naïve Bayes  
+- Association Rules, Text Mining / NLP  
+
+---
+
+##  Featured Projects
+
+###  Soccer Performance & Player Analytics (SQL, ERD, Power BI)
+Designed and analyzed a **relational soccer database** using **ERD modeling** and **3NF normalization**. Wrote advanced SQL queries (JOINs, subqueries, window functions, CASE) to extract insights on **club rankings, player performance, and disciplinary patterns**, and visualized the results with **Power BI dashboards**.
+
+> _Skills: SQL, Database Design, Normalization, Query Optimization, Power BI_
+
+---
+
+###  Data Visualization Portfolio (Python, Tableau, Streamlit)
+Built multiple end-to-end **analytics and visualization projects**:
+- **Airbnb NYC Tableau Dashboard** exploring host activity, pricing, and neighborhood patterns  
+- **Superstore Sales Analysis** in Python using Pandas & Seaborn  
+- **Streamlit Web App** for real-time data exploration  
+- **Climate Change Analytics Storyboard** visualizing global temperature trends, sea-level changes, and natural disaster frequency
+
+> _Skills: Data Cleaning, EDA, Dashboarding, Storytelling_
+
+---
+
+###  Spotify Listener Segmentation & Churn Prediction (Python, R)
+- Applied **K-Means clustering** to segment Spotify users based on behavior (subscription type, ad exposure, etc.)  
+- Built a **logistic regression model** to predict **churn probability** using demographic and usage features  
+
+> _Skills: Clustering, Logistic Regression, Feature Engineering, Model Evaluation_
+
+---
+
+###  Robinhood Sentiment Analysis – GameStop Event (Python, NLP)
+Performed **text mining** on social media data around the **GameStop short squeeze**:
+- Cleaned and processed text data using Python & NLP libraries  
+- Used **VADER sentiment analysis**, **TF-IDF**, and **LDA topic modeling**  
+- Visualized sentiment shifts **before, during, and after** the event and uncovered patterns of **trust loss and migration to other platforms**
+
+> _Skills: NLP, Sentiment Analysis, Topic Modeling, Visualization_
+
+---
+
+## Professional Experience
+
+**Data Analyst – TELUS International AI** *(Part Time, Remote | 09/2023 – 11/2024)*  
+Worked on improving **AI and machine learning models** by analyzing web data, performing **data verification & validation**, and enhancing **labeling quality** for model training.
+
+**Electronics Tester – Quality Assurance – Teleplan International** *(Harrisburg, PA | 05/2019 – 11/2019)*  
+Ensured compliance with **Six Sigma** and **ISO standards**, supported **process improvement**, and created **Excel/Tableau-based KPI dashboards** from hardware testing data.
+
+**Assistant Professor (Mentor Teacher)** – Govt. Model Polytechnic College, India  
+Taught **Microprocessors, Database Systems (SQL), Electronic Circuits, and Total Quality Management**, mentoring students in both theory and lab environments.
+
+---
+
+##  Certifications
+
+- IBM Professional Data Science Certification  
+- Tableau Desktop Specialist  
+- ASTQB Certified Software Tester – Foundation Level (CTFL)
+
+---
+
+##  Get in Touch
+
+- **Email:** [neeethuelectcom@gmail.com](mailto:neeethuelectcom@gmail.com)  
+-  **LinkedIn:** [Neethu Rajagopal Jalaja](https://www.linkedin.com/in/neethu-rajagopal-jalaja-118996238/)  
+-  **GitHub:** [github.com/neethuraj](https://github.com/neethuraj)
+
+If you’re working on data, analytics, or visualization projects and think I could contribute, I’d love to connect or collaborate!
