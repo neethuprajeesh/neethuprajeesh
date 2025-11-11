@@ -45,6 +45,9 @@ Designed and analyzed a **relational soccer database** using **ERD modeling** an
 
 
 ###  Data Visualization Portfolio (Python, Tableau, Streamlit)
+
+Explore my interactive visualizations on [Tableau Public](https://public.tableau.com/app/profile/neethu.rajagopal.jalaja6276/vizzes)
+
 Built multiple end-to-end **analytics and visualization projects**:
 - **Airbnb NYC Tableau Dashboard** exploring host activity, pricing, and neighborhood patterns  
 - **Superstore Sales Analysis** in Python using Pandas & Seaborn  
@@ -86,5 +89,6 @@ Performed **text mining** on social media data around the **GameStop short squee
 - **Email:** [neeethuelectcom@gmail.com](mailto:neeethuelectcom@gmail.com)  
 -  **LinkedIn:** [Neethu Rajagopal Jalaja](https://www.linkedin.com/in/neethu-rajagopal/)  
 -  **GitHub:** [github.com/neethuprajeesh](https://www.github.com/neethuprajeesh/))
+-  **Tableau public:** [public.tableau.com/neethu.rajagopal.jalaja6276](https://public.tableau.com/app/profile/neethu.rajagopal.jalaja6276/vizzes)
 
 If you’re working on data, analytics, or visualization projects and think I could contribute, I’d love to connect or collaborate!
