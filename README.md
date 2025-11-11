@@ -16,10 +16,8 @@ Aspiring **Data Analyst / Data Scientist** with a strong foundation in SQL, Pyth
 
 ##  Tech Stack
 
-**Languages & Libraries**  
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
-- **R**: ggplot2, dplyr, factoextra,  
-- **SQL**  
+**Languages**  
+- Python, R, SQL  
 
 **Databases**  
 - MySQL, Snowflake  
@@ -27,7 +25,7 @@ Aspiring **Data Analyst / Data Scientist** with a strong foundation in SQL, Pyth
 **Tools & Platforms**  
 - Tableau, Power BI, Google Colab, Streamlit, MS Excel, Vega-Lite  
 
-**Machine Learning & Analytics**  
+**Machine Learning Algoriths**  
 - Multiple Linear Regression, Logistic Regression  
 - K-Means & Hierarchical Clustering  
 - Decision Trees, Naïve Bayes  
